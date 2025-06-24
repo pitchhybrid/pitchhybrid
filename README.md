@@ -2,7 +2,7 @@
 
 ## 🚀 Software Engineer | Java Specialist | API Integrator
 
-With 4+ years of experience as a Java developer, I have worked with both the latest and legacy Java frameworks. My core expertise includes:
+With 5+ years of experience as a Java developer, I have worked with both the latest and legacy Java frameworks. My core expertise includes:
 
 - **Spring Framework & Spring Boot**: Robust backend development and RESTful API creation
 - **JSF & JSP**: Building dynamic web applications
